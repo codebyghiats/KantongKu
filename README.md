@@ -2,143 +2,125 @@
 
 # 👛 KantongKu
 
-**Aplikasi pencatatan keuangan pribadi — gratis selamanya, AI jalan di HP kamu sendiri.**
+**Aplikasi Pencatatan Keuangan Pribadi 100% Gratis, Privasi Terenkripsi WebCrypto AES-256, & Auto-Categorization AI.**
 
-[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)
-[![Live Demo](https://img.shields.io/badge/Live%20App-KantongKu%20PWA-10B981?style=for-the-badge&logo=pwa&logoColor=white)](https://codebyghiats.github.io/KantongKu/)
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)
+[![Live Demo PWA](https://img.shields.io/badge/Live%20Web%20App-KantongKu%20PWA-10B981?style=for-the-badge&logo=pwa&logoColor=white)](https://codebyghiats.github.io/KantongKu/)
 
-[![Platform](https://img.shields.io/badge/platform-Web%20%7C%20PWA%20%7C%20Android%20%7C%20iOS-3DDC84?logo=android&logoColor=white)](#)
+[![Platform](https://img.shields.io/badge/platform-Android%20APK%20%7C%20PWA%20%7C%20Web-3DDC84?logo=android&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#-lisensi)
-[![Status](https://img.shields.io/badge/status-MVP%20Released-brightgreen)](#-roadmap)
+[![Status](https://img.shields.io/badge/status-v1.0.0%20Production%20Ready-brightgreen)](#-roadmap)
 
-📥 **[DOWNLOAD APK LANGSUNG (v1.0 - 4.3 MB)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** • 🌐 **[Buka PWA Web App](https://codebyghiats.github.io/KantongKu/)**
+### 📲 **[>>> KLIK DI SINI UNTUK DOWNLOAD FILE APK ANDROID (4.36 MB) <<<](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)**
 
-[Download APK](#-1-download-file-apk-langsung-android) •
-[Install PWA](#-2-install-via-pwa-web) •
-[Fitur](#-fitur-unggulan) •
+🌐 **[Atau Buka Langsung di Browser HP / Laptop (Web App PWA)](https://codebyghiats.github.io/KantongKu/)**
+
+[Download APK](#-1-download-file-apk-android-langsung-436-mb) •
+[Fitur Unggulan](#-fitur-unggulan) •
 [Kenapa KantongKu](#-kenapa-kantongku) •
-[Roadmap](#-roadmap)
+[Keamanan & Privasi](#-keamanan--privasi-standar-wajib) •
+[Tech Stack](#-tech-stack)
 
 </div>
 
-## 📖 Tentang
+---
 
-**KantongKu** adalah aplikasi pencatatan pengeluaran & pemasukan yang dirancang untuk individu (mahasiswa & karyawan) yang capek dengan app finance lain yang mengunci fitur-fitur penting di balik paywall.
+## 📖 Tentang KantongKu
 
-Semua fitur di KantongKu — termasuk AI kategorisasi otomatis — **gratis selamanya**, karena AI-nya berjalan langsung di perangkat pengguna (on-device), bukan lewat API server berbayar.
+**KantongKu** adalah aplikasi pencatatan keuangan pribadi modern yang dirancang untuk membantu mahasiswa, pekerja, dan profesional mengelola arus kas harian tanpa langganan bulanan.
 
-> 💡 **Filosofi kami:** kategorisasi otomatis, scan struk, dan keamanan data yang kuat seharusnya jadi standar dasar — bukan fitur premium.
+Semua data transaksi Anda **100% tersimpan aman secara lokal** di HP/perangkat Anda menggunakan **Enkripsi WebCrypto AES-256**, tanpa perlu sinkronisasi server pihak ketiga atau biaya langganan hidden paywall.
+
+> 💡 **Prinsip Utama:** Kategorisasi otomatis, OCR Scan Struk, Mode Privasi, dan Proteksi PIN/Biometrik adalah hak dasar setiap pengguna — gratis selamanya!
 
 ---
 
-## 📱 Cara Install Aplikasi di HP (Android & iOS)
+## 📱 Cara Install & Download Aplikasi di HP
 
-### 📲 1. Download File APK Langsung (Android)
-- 📦 **Link Download Binary**: 👉 **[Download KantongKu-v1.0.apk (4.3 MB)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** 👈
-- **Langkah Pemasangan**:
-  1. Unduh file `KantongKu-v1.0.apk` di atas langsung ke HP Android Anda.
-  2. Buka file hasil unduhan di HP Anda untuk mulai menginstal.
-  3. Jika muncul peringatan browser/pengelola file, aktifkan opsi **"Izinkan Instalasi dari Sumber Tidak Dikenal" (Install from Unknown Sources)**.
-  4. Aplikasi **KantongKu** siap digunakan!
+### 📲 1. Download File APK Android Langsung (4.36 MB)
+- 📦 **File Binary**: 👉 **[KantongKu-v1.0.apk](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** 👈
+- **Langkah Pemasangan di HP Android**:
+  1. Klik link **[KantongKu-v1.0.apk](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** di atas dari HP Android Anda untuk mulai mendownload.
+  2. Buka file hasil unduhan di pengelola file (*File Manager*) HP Anda.
+  3. Jika muncul peringatan keamanan, pilih **"Izinkan Instalasi dari Sumber Tidak Dikenal" (Install from Unknown Sources)**.
+  4. Aplikasi **KantongKu** siap digunakan langsung dari layar utama HP Anda!
 
 ---
 
-### 🌐 2. Install via PWA Web
+### 🌐 2. Install via PWA Web App (Android & iPhone)
 
-#### 🤖 For Android (Chrome / Edge / Brave):
-1. Buka tautan [https://codebyghiats.github.io/KantongKu/](https://codebyghiats.github.io/KantongKu/) di browser HP Anda.
-2. Klik tombol **"Install Aplikasi"** pada banner hijau yang muncul di atas Dashboard.
-3. *Atau* tekan menu titik tiga `⋮` di pojok kanan atas browser ➔ Pilih **"Tambahkan ke Layar Utama" (Add to Home Screen)**.
+#### 🤖 Android (Chrome / Edge / Brave):
+1. Buka link [https://codebyghiats.github.io/KantongKu/](https://codebyghiats.github.io/KantongKu/) di browser HP Anda.
+2. Klik tombol hijau **"Install Aplikasi"** pada banner PWA yang muncul di bagian atas Dashboard.
+3. Atau tekan menu titik tiga `⋮` di pojok kanan atas ➔ Pilih **"Tambahkan ke Layar Utama" (Add to Home Screen)**.
 
-#### 🍏 For iPhone / iOS (Safari):
-1. Buka tautan [https://codebyghiats.github.io/KantongKu/](https://codebyghiats.github.io/KantongKu/) di Safari iPhone.
+#### 🍏 iPhone / iOS (Safari):
+1. Buka link [https://codebyghiats.github.io/KantongKu/](https://codebyghiats.github.io/KantongKu/) di Safari iPhone.
 2. Tekan tombol **Share / Bagikan** (ikon kotak dengan panah mengarah ke atas di bagian bawah).
-3. Gulir ke bawah lalu pilih **"Tambah ke Layar Utama" (Add to Home Screen)**.
+3. Pilih **"Tambah ke Layar Utama" (Add to Home Screen)**.
 
 ---
 
-## ❓ Kenapa KantongKu?
+## ❓ Kenapa Memilih KantongKu?
 
 <div align="center">
 
-| | App Finance Umumnya | 👛 KantongKu |
+| Fitur | Aplikasi Keuangan Lain | 👛 KantongKu |
 |---|:---:|:---:|
-| Kategorisasi AI | 🔒 Premium/berlangganan | ✅ Gratis (on-device) |
-| Scan struk (OCR) | 🔒 Sering premium | ✅ Gratis |
-| Integrasi bank/e-wallet | 🔒 Terbatas | ✅ Fokus bank lokal Indonesia |
-| Keamanan (enkripsi + biometrik) | ⚠️ Kadang basic | ✅ Wajib sejak awal |
-| Privasi data | ☁️ Sering ke cloud | ✅ Offline-first, kontrol penuh user |
+| **Biaya Langganan** | 🔒 Sering berbayar / Paywall | ✅ 100% Gratis Selamanya |
+| **Kategorisasi AI** | 🔒 Fitur Premium | ✅ Otomatis (On-Device) |
+| **Scan Struk (OCR)** | 🔒 Berbayar / Kuota Terbatas | ✅ Gratis Tanpa Batas |
+| **Mode Privasi (Mata)** | ⚠️ Jarang Ada | ✅ Sembunyikan Nominal 1-Klik |
+| **Simulasi Bank/E-Wallet** | 🔒 Terbatas / Bayar | ✅ BCA, BRI, GoPay, DANA, OVO |
+| **Privasi & Keamanan** | ☁️ Disimpan di Server Cloud | ✅ Enkripsi AES-256 Lokal di HP |
 
 </div>
 
 ---
 
-## ✨ Fitur Unggulan
+## ✨ Fitur-Fitur Unggulan
 
 <details open>
-<summary><b>🧾 OCR Scan Struk Otomatis</b></summary>
+<summary><b>🧾 1. OCR Scan Struk Otomatis (Tesseract.js Engine)</b></summary>
 <br>
 
-Foto struk belanja kamu → nominal, tanggal, dan merchant otomatis terbaca jadi transaksi. Gak perlu ketik manual lagi.
+Foto atau unggah foto struk belanja Anda. Teknologi OCR otomatis mengekstrak **Nama Merchant, Tanggal, dan Total Nominal Belanja**, serta mengkategorikannya secara instan tanpa perlu mengetik manual.
 
 </details>
 
-<details>
-<summary><b>🏦 Integrasi Bank & E-Wallet Lokal</b></summary>
+<details open>
+<summary><b>👁️ 2. Mode Privasi & Tombol "Mata" (Privacy Hide Toggle)</b></summary>
 <br>
 
-Hubungkan akun **BCA, BRI, GoPay, OVO, DANA**, dan lainnya. Transaksi masuk otomatis tanpa perlu dicatat satu-satu.
+Gunakan tombol ikon Mata di Header atau Rekening untuk menyembunyikan nominal saldo (`Rp ••••••••`) saat membuka aplikasi di keramaian atau tempat umum.
 
 </details>
 
-<details>
-<summary><b>🤖 AI On-Device (Bukan di Server)</b></summary>
+<details open>
+<summary><b>🏦 3. Integrasi & Auto-Sync Rekening Bank / E-Wallet</b></summary>
 <br>
 
-Model AI kecil yang jalan langsung di HP kamu untuk mengkategorikan transaksi otomatis. Karena gak butuh server, gak ada biaya langganan — dan data kamu gak perlu keluar dari HP.
+Kelola dan simulasikan auto-sync transaksi dari akun **BCA, BRI, Mandiri, GoPay, DANA, dan OVO** secara terpusat dengan laporan saldo gabungan.
 
 </details>
 
-<details>
-<summary><b>🔐 Keamanan & Privasi (Standar Wajib)</b></summary>
+<details open>
+<summary><b>📊 4. Laporan Visual & Chart Tren Real-Time</b></summary>
 <br>
 
-- Enkripsi data + kunci biometrik (sidik jari/Face ID)
-- Offline-first — data tersimpan lokal di HP
-- Export atau hapus data kamu kapan saja, kontrol penuh di tangan kamu
+- **Perbandingan Pemasukan vs Pengeluaran**: Grafik batang dinamis yang menyesuaikan skala meteran sumbu Y (`500rb`, `1Jt`, `5Jt`).
+- **Alokasi Anggaran Donut Chart**: Pembagian pengeluaran per kategori beserta rekomendasi penghematan harian.
 
 </details>
 
-<details>
-<summary><b>📊 Budgeting & Laporan Visual</b></summary>
+<details open>
+<summary><b>🔐 5. Keamanan PIN / Biometrik & Enkripsi WebCrypto</b></summary>
 <br>
 
-- Set limit anggaran per kategori + alert kalau mendekati/lewat limit
-- Grafik tren pengeluaran & pemasukan bulanan
+- Proteksi penguncian aplikasi dengan PIN 4-digit.
+- Data tersimpan dalam format terenkripsi AES-256 di `localStorage` perbawaan browser/HP.
 
 </details>
-
----
-
-## 🗺️ Roadmap
-
-```
-Fase 1 — MVP (Android)
-  ├── ✅ Pencatatan transaksi manual
-  ├── ✅ OCR scan struk
-  ├── ✅ Keamanan wajib (enkripsi, biometrik, offline-first, export/delete)
-  └── ✅ Budgeting & alert
-
-Fase 2 — Integrasi & AI
-  ├── 🔄 Integrasi bank/e-wallet lokal
-  └── 🔄 AI on-device untuk kategorisasi otomatis
-
-Fase 3 — Penyempurnaan
-  ├── ⏳ Laporan visual lanjutan
-  └── ⏳ Eksplorasi platform iOS/Web
-```
-
-> Detail lengkap requirement ada di [`prd.md`](./prd.md)
 
 ---
 
@@ -148,6 +130,7 @@ Fase 3 — Penyempurnaan
 
 ![React](https://img.shields.io/badge/-React%2018-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor%20(Android%20APK)-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Tesseract.js](https://img.shields.io/badge/-Tesseract.js%20(OCR)-5C2D91?style=for-the-badge&logo=tesseract&logoColor=white)
@@ -157,37 +140,12 @@ Fase 3 — Penyempurnaan
 
 ---
 
-## 📦 Struktur Dokumen Project
-
-```
-📁 kantongku/
- ├── 📄 README.md              ← kamu di sini
- ├── 📄 prd.md                 ← Product Requirements Document
- └── 📄 project-plan.md        ← Rencana proyek awal
-```
-
----
-
-## 🤝 Kontribusi
-
-Project ini masih di tahap perencanaan. Kontribusi, ide, dan diskusi sangat terbuka!
-
-1. Fork repo ini
-2. Buat branch baru (`git checkout -b fitur/nama-fitur`)
-3. Commit perubahan kamu (`git commit -m 'Tambah fitur X'`)
-4. Push ke branch (`git push origin fitur/nama-fitur`)
-5. Buka Pull Request
-
----
-
 ## 📄 Lisensi
 
-Belum ditentukan — akan diupdate seiring project berjalan.
-
----
+[MIT License](./LICENSE) — Bebas digunakan, dikembangkan, dan didistribusikan.
 
 <div align="center">
 
-Dibuat dengan 👛 untuk orang-orang yang capek bayar langganan cuma buat lihat ke mana uangnya pergi.
+Dibuat dengan 👛 oleh **[codebyghiats](https://github.com/codebyghiats)** untuk pencatatan keuangan yang aman, rapi, dan privat.
 
 </div>
