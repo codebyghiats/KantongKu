@@ -4,16 +4,16 @@
 
 **Aplikasi Pencatatan Keuangan Pribadi 100% Gratis, Privasi Terenkripsi WebCrypto AES-256, & Auto-Categorization AI.**
 
-[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/codebyghiats/KantongKu/raw/main/KantongKu-v1.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/codebyghiats/KantongKu/releases/download/v1.0.0/KantongKu-v1.0.apk)
 [![Live Demo PWA](https://img.shields.io/badge/Live%20Web%20App-KantongKu%20PWA-10B981?style=for-the-badge&logo=pwa&logoColor=white)](https://codebyghiats.github.io/KantongKu/)
 
 [![Platform](https://img.shields.io/badge/platform-Android%20APK%20%7C%20PWA%20%7C%20Web-3DDC84?logo=android&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#-lisensi)
-[![Status](https://img.shields.io/badge/status-v1.0.0%20Production%20Ready-brightgreen)](#-roadmap)
+[![Status](https://img.shields.io/badge/status-v1.0.0%20Production%20Ready-brightgreen)](https://github.com/codebyghiats/KantongKu/releases)
 
-### 📲 **[>>> KLIK DI SINI UNTUK DOWNLOAD FILE APK ANDROID (4.36 MB) <<<](https://github.com/codebyghiats/KantongKu/raw/main/KantongKu-v1.0.apk)**
+### 📲 **[>>> KLIK DI SINI UNTUK DOWNLOAD APK DARIPADA GITHUB RELEASES (4.36 MB) <<<](https://github.com/codebyghiats/KantongKu/releases/download/v1.0.0/KantongKu-v1.0.apk)**
 
-🌐 **[Atau Buka Langsung di Browser HP / Laptop (Web App PWA)](https://codebyghiats.github.io/KantongKu/)**
+🌐 **[Atau Halaman GitHub Releases Resmi](https://github.com/codebyghiats/KantongKu/releases/tag/v1.0.0)**
 
 [Download APK](#-1-download-file-apk-android-langsung-436-mb) •
 [Fitur Unggulan](#-fitur-unggulan) •
@@ -38,12 +38,12 @@ Semua data transaksi Anda **100% tersimpan aman secara lokal** di HP/perangkat A
 ## 📱 Cara Install & Download Aplikasi di HP
 
 ### 📲 1. Download File APK Android Langsung (4.36 MB)
-- 📦 **File Binary**: 👉 **[KantongKu-v1.0.apk](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** 👈
+- 📦 **File Binary (GitHub Release)**: 👉 **[KantongKu-v1.0.apk](https://github.com/codebyghiats/KantongKu/releases/download/v1.0.0/KantongKu-v1.0.apk)** 👈
 - **Langkah Pemasangan di HP Android**:
-  1. Klik link **[KantongKu-v1.0.apk](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** di atas dari HP Android Anda untuk mulai mendownload.
-  2. Buka file hasil unduhan di pengelola file (*File Manager*) HP Anda.
-  3. Jika muncul peringatan keamanan, pilih **"Izinkan Instalasi dari Sumber Tidak Dikenal" (Install from Unknown Sources)**.
-  4. Aplikasi **KantongKu** siap digunakan langsung dari layar utama HP Anda!
+  1. Unduh file `KantongKu-v1.0.apk` dari menu **[GitHub Releases v1.0.0](https://github.com/codebyghiats/KantongKu/releases/tag/v1.0.0)**.
+  2. Buka file hasil unduhan di HP Android Anda.
+  3. Izinkan **"Install from Unknown Sources"** jika diminta oleh HP.
+  4. Aplikasi **KantongKu** resmi terpasang!
 
 ---
 
