@@ -17,8 +17,6 @@
 
 </div>
 
----
-
 ## 📖 Tentang
 
 **KantongKu** adalah aplikasi pencatatan pengeluaran & pemasukan yang dirancang untuk individu (mahasiswa & karyawan) yang capek dengan app finance lain yang mengunci fitur-fitur penting di balik paywall.
@@ -26,6 +24,25 @@
 Semua fitur di KantongKu — termasuk AI kategorisasi otomatis — **gratis selamanya**, karena AI-nya berjalan langsung di perangkat pengguna (on-device), bukan lewat API server berbayar.
 
 > 💡 **Filosofi kami:** kategorisasi otomatis, scan struk, dan keamanan data yang kuat seharusnya jadi standar dasar — bukan fitur premium.
+
+---
+
+## 📱 Cara Install Aplikasi di HP (Android & iOS)
+
+**KantongKu** dilengkapi teknologi **Progressive Web App (PWA)** offline-first, sehingga dapat di-install secara instan ke layar utama (*Home Screen*) HP Anda tanpa biaya & tanpa perlu lewat Play Store!
+
+### 📲 Langkah Instalasi Cepat:
+
+#### 🤖 For Android (Chrome / Edge / Brave):
+1. Buka tautan aplikasi **KantongKu** di browser HP Anda.
+2. Klik tombol **"Install Aplikasi"** pada banner hijau yang muncul di atas Dashboard.
+3. *Atau* tekan menu titik tiga `⋮` di pojok kanan atas browser ➔ Pilih **"Tambahkan ke Layar Utama" (Add to Home Screen)** / **"Install Aplikasi"**.
+
+#### 🍏 For iPhone / iOS (Safari):
+1. Buka tautan aplikasi di browser **Safari** pada iPhone Anda.
+2. Tekan tombol **Share / Bagikan** (ikon kotak dengan panah mengarah ke atas di bagian bawah).
+3. Gulir ke bawah lalu pilih **"Tambah ke Layar Utama" (Add to Home Screen)**.
+4. Klik **Tambah**. Aplikasi **KantongKu** akan langsung terpasang di layar utama iPhone Anda!
 
 ---
 
