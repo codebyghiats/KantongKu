@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply font-sans antialiased overflow-x-hidden transition-colors duration-200;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.1);
+}
+
+.dark ::-webkit-scrollbar-track {
+  background: rgba(15, 23, 42, 0.6);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(148, 163, 184, 0.5);
+  border-radius: 9999px;
+}
+
+.dark ::-webkit-scrollbar-thumb {
+  background: rgba(51, 65, 85, 0.8);
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(16, 185, 129, 0.8);
+}
+
+/* Theme Glassmorphism Utilities */
+.glass-panel {
+  @apply bg-white/80 dark:bg-slate-900/80 backdrop-blur-md border border-slate-200/80 dark:border-slate-800/80 shadow-sm;
+}
+
+.glass-card {
+  @apply bg-white dark:bg-slate-900 border border-slate-200/90 dark:border-slate-800/90 shadow-sm dark:shadow-xl transition-colors duration-200;
+}
+
+.glass-emerald {
+  @apply bg-emerald-50/80 dark:bg-emerald-950/20 border border-emerald-200 dark:border-emerald-500/30 text-emerald-900 dark:text-emerald-300;
+}
+
+/* Page & Tab Fade In Transition */
+@keyframes tabFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(8px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-tab-fade {
+  animation: tabFadeIn 0.25s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+}
