@@ -18,8 +18,9 @@
 [Download APK](#-1-download-file-apk-android-langsung-436-mb) •
 [Fitur Unggulan](#-fitur-unggulan) •
 [Kenapa KantongKu](#-kenapa-kantongku) •
-[Keamanan & Privasi](#-keamanan--privasi-standar-wajib) •
-[Tech Stack](#-tech-stack)
+[Arsitektur Privasi](#-arsitektur-sistem--privasi-data) •
+[Panduan Developer](#-panduan-menjalankan-di-lokal-development-setup) •
+[FAQ](#-pertanyaan-yang-sering-diajukan-faq)
 
 </div>
 
@@ -27,7 +28,7 @@
 
 ## 📖 Tentang KantongKu
 
-**KantongKu** adalah aplikasi pencatatan keuangan pribadi modern yang dirancang untuk membantu mahasiswa, pekerja, dan profesional mengelola arus kas harian tanpa langganan bulanan.
+**KantongKu** adalah aplikasi pencatatan keuangan pribadi modern yang dirancang untuk membantu mahasiswa, pekerja, dan profesional mengelola arus kas harian tanpa biaya langganan bulanan.
 
 Semua data transaksi Anda **100% tersimpan aman secara lokal** di HP/perangkat Anda menggunakan **Enkripsi WebCrypto AES-256**, tanpa perlu sinkronisasi server pihak ketiga atau biaya langganan hidden paywall.
 
@@ -120,6 +121,61 @@ Kelola dan simulasikan auto-sync transaksi dari akun **BCA, BRI, Mandiri, GoPay,
 - Proteksi penguncian aplikasi dengan PIN 4-digit.
 - Data tersimpan dalam format terenkripsi AES-256 di `localStorage` perbawaan browser/HP.
 
+</details>
+
+---
+
+## 🏗️ Arsitektur Sistem & Privasi Data
+
+```
+📱 Perangkat HP / Browser User (Offline-First)
+ ├── 📥 User Inputs (OCR Struk / Manual / Bank Sync)
+ ├── 🔐 Encryption Layer (WebCrypto AES-256)
+ ├── 💾 Storage Engine (Local Android Sandbox / IndexedDB / LocalStorage)
+ └── 🚫 ZERO Server Upload (Tanpa Cloud Tracking)
+```
+
+---
+
+## 💻 Panduan Menjalankan di Lokal (Development Setup)
+
+Bagi developer yang ingin mencoba atau berkontribusi pada pengembangan **KantongKu**:
+
+```bash
+# 1. Clone repositori ini
+git clone https://github.com/codebyghiats/KantongKu.git
+cd KantongKu
+
+# 2. Install dependensi proyek
+npm install
+
+# 3. Jalankan server lokal development
+npm run dev
+
+# 4. Build bundel produksi
+npm run build
+```
+
+---
+
+## ❓ Pertanyaan Yang Sering Diajukan (FAQ)
+
+<details>
+<summary><b>Q: Apakah data keuangan saya aman dan bisa diakses orang lain?</b></summary>
+<br>
+<b>A:</b> Data Anda 100% aman dan privat. Seluruh catatan transaksi dan nomor akun hanya disimpan secara lokal di dalam memori/HP Anda dengan enkripsi WebCrypto AES-256. Tidak ada data yang dikirim ke server internet.
+</details>
+
+<details>
+<summary><b>Q: Apakah aplikasi ini membutuhkan koneksi internet?</b></summary>
+<br>
+<b>A:</b> Tidak. KantongKu dirancang dengan arsitektur <i>Offline-First</i>. Anda dapat mencatat transaksi, melihat laporan, dan menggunakan OCR scan struk meskipun HP Anda sedang dalam Mode Pesawat (offline).
+</details>
+
+<details>
+<summary><b>Q: Bagaimana cara memindahkan data ke HP baru?</b></summary>
+<br>
+<b>A:</b> Anda dapat memanfaatkan fitur <b>Export Backup JSON / CSV</b> di menu Pengaturan untuk menyimpan cadangan file data Anda, lalu mengimpornya kembali di HP baru dalam hitungan detik.
 </details>
 
 ---
