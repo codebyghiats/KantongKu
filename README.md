@@ -11,7 +11,7 @@
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#-lisensi)
 [![Status](https://img.shields.io/badge/status-v1.0.0%20Production%20Ready-brightgreen)](https://github.com/codebyghiats/KantongKu/releases)
 
-### 📲 **[>>> KLIK DI SINI UNTUK DOWNLOAD APK DARIPADA GITHUB RELEASES (4.36 MB) <<<](https://github.com/codebyghiats/KantongKu/releases/download/v1.0.0/KantongKu-v1.0.apk)**
+### 📲 **[>>> KLIK DI SINI UNTUK DOWNLOAD APK (4.36 MB) <<<](https://github.com/codebyghiats/KantongKu/releases/download/v1.0.0/KantongKu-v1.0.apk)**
 
 🌐 **[Atau Halaman GitHub Releases Resmi](https://github.com/codebyghiats/KantongKu/releases/tag/v1.0.0)**
 
