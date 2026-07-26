@@ -4,14 +4,14 @@
 
 **Aplikasi Pencatatan Keuangan Pribadi 100% Gratis, Privasi Terenkripsi WebCrypto AES-256, & Auto-Categorization AI.**
 
-[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/codebyghiats/KantongKu/raw/main/KantongKu-v1.0.apk)
 [![Live Demo PWA](https://img.shields.io/badge/Live%20Web%20App-KantongKu%20PWA-10B981?style=for-the-badge&logo=pwa&logoColor=white)](https://codebyghiats.github.io/KantongKu/)
 
 [![Platform](https://img.shields.io/badge/platform-Android%20APK%20%7C%20PWA%20%7C%20Web-3DDC84?logo=android&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#-lisensi)
 [![Status](https://img.shields.io/badge/status-v1.0.0%20Production%20Ready-brightgreen)](#-roadmap)
 
-### 📲 **[>>> KLIK DI SINI UNTUK DOWNLOAD FILE APK ANDROID (4.36 MB) <<<](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)**
+### 📲 **[>>> KLIK DI SINI UNTUK DOWNLOAD FILE APK ANDROID (4.36 MB) <<<](https://github.com/codebyghiats/KantongKu/raw/main/KantongKu-v1.0.apk)**
 
 🌐 **[Atau Buka Langsung di Browser HP / Laptop (Web App PWA)](https://codebyghiats.github.io/KantongKu/)**
 
