@@ -4,16 +4,20 @@
 
 **Aplikasi pencatatan keuangan pribadi — gratis selamanya, AI jalan di HP kamu sendiri.**
 
-[![Platform](https://img.shields.io/badge/platform-Web%20%7C%20PWA%20%7C%20Android-3DDC84?logo=android&logoColor=white)](#)
+[![Download APK](https://img.shields.io/badge/Download-Android%20APK%20(v1.0)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)
+[![Live Demo](https://img.shields.io/badge/Live%20App-KantongKu%20PWA-10B981?style=for-the-badge&logo=pwa&logoColor=white)](https://codebyghiats.github.io/KantongKu/)
+
+[![Platform](https://img.shields.io/badge/platform-Web%20%7C%20PWA%20%7C%20Android%20%7C%20iOS-3DDC84?logo=android&logoColor=white)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#-lisensi)
 [![Status](https://img.shields.io/badge/status-MVP%20Released-brightgreen)](#-roadmap)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#-kontribusi)
 
+📥 **[DOWNLOAD APK LANGSUNG (v1.0 - 4.3 MB)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** • 🌐 **[Buka PWA Web App](https://codebyghiats.github.io/KantongKu/)**
+
+[Download APK](#-1-download-file-apk-langsung-android) •
+[Install PWA](#-2-install-via-pwa-web) •
 [Fitur](#-fitur-unggulan) •
-[Kenapa KantongKu](#-kenapa-KantongKu) •
-[Roadmap](#-roadmap) •
-[Tech Stack](#-tech-stack) •
-[Kontribusi](#-kontribusi)
+[Kenapa KantongKu](#-kenapa-kantongku) •
+[Roadmap](#-roadmap)
 
 </div>
 
@@ -29,20 +33,27 @@ Semua fitur di KantongKu — termasuk AI kategorisasi otomatis — **gratis sela
 
 ## 📱 Cara Install Aplikasi di HP (Android & iOS)
 
-**KantongKu** dilengkapi teknologi **Progressive Web App (PWA)** offline-first, sehingga dapat di-install secara instan ke layar utama (*Home Screen*) HP Anda tanpa biaya & tanpa perlu lewat Play Store!
+### 📲 1. Download File APK Langsung (Android)
+- 📦 **Link Download Binary**: 👉 **[Download KantongKu-v1.0.apk (4.3 MB)](https://raw.githubusercontent.com/codebyghiats/KantongKu/main/KantongKu-v1.0.apk)** 👈
+- **Langkah Pemasangan**:
+  1. Unduh file `KantongKu-v1.0.apk` di atas langsung ke HP Android Anda.
+  2. Buka file hasil unduhan di HP Anda untuk mulai menginstal.
+  3. Jika muncul peringatan browser/pengelola file, aktifkan opsi **"Izinkan Instalasi dari Sumber Tidak Dikenal" (Install from Unknown Sources)**.
+  4. Aplikasi **KantongKu** siap digunakan!
 
-### 📲 Langkah Instalasi Cepat:
+---
+
+### 🌐 2. Install via PWA Web
 
 #### 🤖 For Android (Chrome / Edge / Brave):
-1. Buka tautan aplikasi **KantongKu** di browser HP Anda.
+1. Buka tautan [https://codebyghiats.github.io/KantongKu/](https://codebyghiats.github.io/KantongKu/) di browser HP Anda.
 2. Klik tombol **"Install Aplikasi"** pada banner hijau yang muncul di atas Dashboard.
-3. *Atau* tekan menu titik tiga `⋮` di pojok kanan atas browser ➔ Pilih **"Tambahkan ke Layar Utama" (Add to Home Screen)** / **"Install Aplikasi"**.
+3. *Atau* tekan menu titik tiga `⋮` di pojok kanan atas browser ➔ Pilih **"Tambahkan ke Layar Utama" (Add to Home Screen)**.
 
 #### 🍏 For iPhone / iOS (Safari):
-1. Buka tautan aplikasi di browser **Safari** pada iPhone Anda.
+1. Buka tautan [https://codebyghiats.github.io/KantongKu/](https://codebyghiats.github.io/KantongKu/) di Safari iPhone.
 2. Tekan tombol **Share / Bagikan** (ikon kotak dengan panah mengarah ke atas di bagian bawah).
 3. Gulir ke bawah lalu pilih **"Tambah ke Layar Utama" (Add to Home Screen)**.
-4. Klik **Tambah**. Aplikasi **KantongKu** akan langsung terpasang di layar utama iPhone Anda!
 
 ---
 
